@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Stillingfleet's principles of Protestancy cleared, confuted, and retorted And the infallibility of the Roman-Catholick Church asserted; and that the same church alone is the whole Catholick church. In a letter from a Catholick gentleman to a Protestant knight.</title>
+            <author>Warner, John, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67649</idno>
+            <idno type="STC">Wing W911</idno>
+            <idno type="STC">ESTC R219411</idno>
+            <idno type="EEBO-CITATION">99830885</idno>
+            <idno type="PROQUEST">99830885</idno>
+            <idno type="VID">35347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35347)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1879:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Stillingfleet's principles of Protestancy cleared, confuted, and retorted And the infallibility of the Roman-Catholick Church asserted; and that the same church alone is the whole Catholick church. In a letter from a Catholick gentleman to a Protestant knight.</title>
+                  <author>Warner, John, 1628-1692.</author>
+               </titleStmt>
+               <extent>[2], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A Catholick gentleman = John Warner.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>With final page of errata.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stillingfleet, Edward, 1635-1699 --  Early works to 1800.</term>
+               <term>Catholic Church --  Early works to 1800.</term>
+               <term>Protestantism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35347:1"/>
+            <pb facs="tcp:35347:1" rendition="simple:additions"/>
+            <p>Dr. <hi>STILLINGFLEETS</hi> PRINCIPLES OF PROTESTANCY Cleared, Confuted, and Retorted. AND THE INFALLIBILITY OF THE ROMAN-CATHOLICK CHURCH Aſſerted; And that the ſame Church alone is the whole CATHOLICK CHURCH.</p>
+            <p>IN A Letter from a Catholick Gentleman to a Proteſtant Knight.</p>
+            <p>Printed in the Year, 1673.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:35347:2"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>NOtwithſtanding the Multiplicity of Learn<g ref="char:EOLhyphen"/>ed and ſolid Anſwers to Dr. <hi>Stillingfleets Principles of Chriſtianity,</hi> I thought fit alſo to publiſh this Short and Substantial Peece (though neglected by the Author) as more par<g ref="char:EOLhyphen"/>ticularly ſuited for men endowed with ſtrength of Reaſon and Judgement, yet not much verſed in Book-Learning.</p>
+         </div>
+      </front>
+      <body>
+         <div type="polemical_letter">
+            <div type="introduction">
+               <pb n="1" facs="tcp:35347:2" rendition="simple:additions"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>Ccording to your deſire, I have peruſed Dr. <hi>Stillingfleet's</hi> Diſcourſe of <hi>Idolatry</hi> and his <hi>Principles of Proteſtancy;</hi> To deliver my Opinion of either, ſeemeth to be ſu<g ref="char:EOLhyphen"/>perfluous, it being credible both are an<g ref="char:EOLhyphen"/>ſwered in <hi>England</hi> ere now. But becauſe you preſs me to it, and the Anſwer may be as long expected here, as the Book hath been, I will venture to give my Judgement of Dr. <hi>Stillingfleet;</hi> and do con<g ref="char:EOLhyphen"/>feſſe ingeniouſly, that of all Proteſtant Writers I ever read, I take him to be not only the wittieſt, but the wiſeſt; eſpecially where he rallies and endeavours to make the Roman Religion, ridiculous. For to ima<g ref="char:EOLhyphen"/>gine that rational men can be moved by ſerious Diſ<g ref="char:EOLhyphen"/>courſes, to believe, that God would ſend <hi>Martin Lu<g ref="char:EOLhyphen"/>ther, John Calvin, Martin Bucer, Thomas Cranmer,</hi> &amp;c. to reform Chriſtianity (their lives having been ſo ſcan<g ref="char:EOLhyphen"/>dalous and un-chriſtianlike) or that he would oblige the world to credit ſuch vicious men, without ſhewing any Credentials, or Miracles, to confirm their Teſtimo<g ref="char:EOLhyphen"/>ny, and new ſenſe of Scripture; is to make God take a new and unreaſonable Method. Therefore Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet</hi> had very good Reaſons not to inſiſt upon this old and ordinary way of his Proteſtant Controverſers; he fixt upon a better for his own purpoſe, which is, to rail at the Saints, and rally us out of their Religion and
+<pb n="2" facs="tcp:35347:3"/>Miracles. But notwithſtanding the judicious choice of his new Method, I humbly conceive he hath over<g ref="char:EOLhyphen"/>ſhot himſelf by aiming ſo high, and letting his arrows fly againſt ſo ancient a Patriarch as St. <hi>Bennet,</hi> of whoſe ſupernatural gifts and Miracles, never any one doubted that believed ſo authentick an Authour and Doctor of Gods Church as<note n="*" place="bottom">Biſhop <hi>Godwin</hi> in his Catalogue of Biſhops, <hi>&amp;c. p.</hi> 3. ſaith, That bleſſed and holy Father, S. <hi>Gregory</hi> was the o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>caſion of Re-planting the Chriſtian Faith in our Countrey. The ſame ſaith D. <hi>Whitaker contra Durcum, lib.</hi> 5. <hi>p.</hi> 394. M. <hi>Bell</hi> in his <hi>Survey of Popery, p.</hi> 187. termeth him, S. <hi>Gregory s<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rnamed the Great, the holy and Learned Biſhop of Rome.</hi> D. <hi>Humphrey</hi> in his <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſuatiſm, par.</hi> 2. <hi>pag.</hi> 624. ſaith. <hi>Gregory</hi> both in Name, and in very Deed Great, was ind<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed with many Gifts of divine grace. S. <hi>Iſidore de Scrip<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Eccleſiaſt. c.</hi> 27. ſaith, <hi>Gregory</hi> Biſhop of the Apoſtolick See of <hi>Rome, &amp;c.</hi> was by the grace of the holy Ghoſt ſo greatly indued with light of know<g ref="char:EOLhyphen"/>ledge, as no Doctor of this preſent Age or in tim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t was equal to him. S. <hi>John Damaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en</hi> ſpeaking of his Dialogues, and the life of S. <hi>Bennet,</hi> which S. <hi>Gregory</hi> writ, ſaith, Let <hi>Gregory</hi> that wrote the Book of Dialogues, Biſhop of the elder <hi>Rome,</hi> be brought forth, a man as all know, that was renowned both for holineſs of life and learning, <hi>&amp;c.</hi>
+                  </note> St. <hi>Gregory the Great,</hi> who writ his Life; And truly Dr. <hi>Stillingfleet</hi> is the firſt Proteſtant Doctor I heard of did except againſt St. <hi>Gregories</hi> ſin<g ref="char:EOLhyphen"/>cerity or ſufficiency in relating matters of fact or faith. He might think fit to make bold with S. <hi>Ignatius</hi> be<g ref="char:EOLhyphen"/>cauſe he was Founder of the Jeſuites with St. <hi>Dominick</hi> alſo becauſe he invented the Inquiſition; But to think that his Raillery could reach to diſcredit the Miracles and Sanctity of S. <hi>Bennet,</hi> and the Teſtimony of S. <hi>Gre<g ref="char:EOLhyphen"/>gory the Great</hi> is an unpardonable Crime. And yet D. <hi>Stillingfleets</hi> Friends (and his Enemies) may excuſe the heinouſneſs of this Crime, by the impoſſibility of De<g ref="char:EOLhyphen"/>fending
+<pb n="3" facs="tcp:35347:3" rendition="simple:additions"/>his Cauſe, otherwiſe then by facing us down, that all the Roman-Catholick Prelats and Preachers ſince the Primitive times, were either ſo witleſs, as to be ſeduced by fooliſh Saints and feign'd Miracles; or ſo wicked, as to conſpire (againſt Gods known Worſhip and plain Word) to damn themſelves and poſterity. And withall, were ſo obſtinate in adhering to the Er<g ref="char:EOLhyphen"/>rours of Popery, that in whatſoever Age any Preachers began to reform that Doctrine, they were ſuddenly cried down and condemned as notorious Hereticks, by the Prelats and Councils of the then viſible Church. But leaving this to the Anſwerers of D. <hi>Stillingfleets</hi> Book, I will paſs to his Principles.</p>
+            </div>
+            <div type="refutation_of_principles">
+               <pb n="4" facs="tcp:35347:4"/>
+               <head>Dr. <hi>Stillingfleets</hi> PRINCIPLES Cleared, Confuted, and Retorted.</head>
+               <head type="sub">Of his Six Principles pretended to be agreed upon on both Sides.</head>
+               <div type="part">
+                  <p>TO his three firſt Principles I have nothing to ſay.</p>
+               </div>
+               <div type="part">
+                  <p>D. <hi>Stillingfleets</hi> Fourth Principle is.</p>
+                  <p>
+                     <hi>That in order to mans obeying the Will of God, it is ne<g ref="char:EOLhyphen"/>ceſſary that he Know what it is, for which ſome manifeſta<g ref="char:EOLhyphen"/>tion of the Will of God is neceſſary both that man may know what he hath to do, and that God may juſtly puniſh him if he do it not.</hi>
+                  </p>
+                  <p>Principle V.</p>
+                  <p>
+                     <hi>Whatever God reveals to man, is infallibly true, and be<g ref="char:EOLhyphen"/>ing intended for the Rule of mans Obedience, may be cer<g ref="char:EOLhyphen"/>tainly known to be his Will.</hi>
+                  </p>
+                  <p>HIs Fourth Principle muſt be examined before any Chriſtian can agree with him in it: If he means that in order to mans obeying the Will of God, it is neceſſary that he <hi>know</hi> what it is, with <hi>clear</hi> or <hi>undeni<g ref="char:EOLhyphen"/>able</hi> Evidence the Principle is falſe; it is ſufficient that he knows what Gods Will is, by <hi>Credible</hi> Teſtimony, or publick authority, though the infallible certainty
+<pb n="5" facs="tcp:35347:4" rendition="simple:additions"/>thereof doth not clearly appear. So children are bound under pain of damnation to honour their Parents, and Subjects to obey their Soveraigns, though no infallible certainty appeareth that they are their Parents, or So<g ref="char:EOLhyphen"/>veraigns. In like manner though no undeniable cer<g ref="char:EOLhyphen"/>tainty appears to us that God ſpeaketh or declareth his Will by Scripture, or by his Church, yet we are bound under pain of damnation to beleeve, that what is propoſed and commanded by them, is the Word and Will of God, and accordingly we ought to obey.</p>
+                  <p>The reaſon of this aſſertion is, that mans under<g ref="char:EOLhyphen"/>ſtanding being imperfect, its aſſent is more frequently directed by outward ſigns to the truth, than by any immediate ſight of the ſame. And therefore, even in things of greateſt concern, we are accuſtomed (and indeed for want of better evidence, forc't) to rely up<g ref="char:EOLhyphen"/>on the Tradition, Teſtimony, and Information of o<g ref="char:EOLhyphen"/>thers; and thereupon to ground our judicial decrees, and Sentences both in Church and State. This Cu<g ref="char:EOLhyphen"/>ſtom being agreeable to reaſon and the Law of nature, it cannot be againſt either to conform ourſelves there<g ref="char:EOLhyphen"/>unto in ſupernatural Myſteries, or matters of Faith; ſeeing we underſtand leſſe of theſe than of any others; Therefore not only the Fourth Principle, but the Fifth alſo which Dr. <hi>Stillingfleet</hi> pretends to be agreed unto on both ſides, are falſe, inaſmuch as they ſuppoſe that a clear and certain knowledge of Gods Revelation and Will is neceſſary for believing the one and obey<g ref="char:EOLhyphen"/>ing the other.</p>
+                  <p>Beſides, it is a prerogative due to Superiors, not to be obliged to ſignifie their will and pleaſure to their Subjects by themſelves immediately, but may and
+<pb n="6" facs="tcp:35347:5" rendition="simple:additions"/>do appoint their ſubordinate Officers to publiſh and pro<g ref="char:EOLhyphen"/>claim their commands, either by word of mouth or writing And though Dr. <hi>Stillingfleet</hi> (in his ſeventh Principle) ſeems to grant, God ought to enjoy this Prerogative, yet (if he proceeds conſequently) he muſt deny it, ſeeing there can be no clear undeniable certainty of Gods revealing or commanding, when he truſts his Revelations and Commands to the propoſal and Miniſtry of others, though confirmed by ſuch Mi<g ref="char:EOLhyphen"/>racles as Chriſt himſelf and his Apoſtles wrought; be<g ref="char:EOLhyphen"/>cauſe ſuch Miracles do not clearly demonſtrate that themſelves are ſupernatural (as is manifeſt by the ob<g ref="char:EOLhyphen"/>ſtinate lews, who artributed them to <hi>Beelzebub</hi>) or that the Doctrin confirmeed by them, is Divine; or that the words uttered or written by men, is the Word of God. If therefore a clear certainty or Demonſtra<g ref="char:EOLhyphen"/>tive Evidence of Gods Will and Revelation be requi<g ref="char:EOLhyphen"/>ſite for Chriſtian Obedience and belief, we deprive God of that Prerogative which is inſeparable from So<g ref="char:EOLhyphen"/>veraigns, and conſiſts in the Obligation of their Sub<g ref="char:EOLhyphen"/>jects to beleeve and obey them, when they ſpeak and command by ſubordinate Officers, though theſe ſhew no clear or undeniable evidence for their office; ſome ſigns Gods Miniſters muſt ſhew as Seals of their Com<g ref="char:EOLhyphen"/>miſſion, which may create (even in the moſt ſerupu<g ref="char:EOLhyphen"/>lous) a moral certainty of Divine Truth and Truſt repoſed in them; but no ſuch undeniable evidence of Gods revealing and commanding by them as D. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet</hi> and all Proteſtants are forc't to exact, by not contenting themſelves with that moral certainty and evidence of ſupernatural ſignes which is viſible in the Roman-Catholick Church.</p>
+                  <p>And truly by exacting greater evidence of Gods
+<pb n="7" facs="tcp:35347:5"/>Revelations then appears by the ſignes of the Roman-Catholick Church, Dr. <hi>Stillingfleet</hi> deſtroys all Religi<g ref="char:EOLhyphen"/>on, and the nature of Chriſtian Faith, which accord<g ref="char:EOLhyphen"/>ing to S. <hi>Paul, Heb.</hi> 11. involves obſcurity, or the <hi>Not-appearance</hi> of the Truth of Myſteries believed: And reaſon, dictates that <hi>belief</hi> or <hi>faith,</hi> being by its own nature and primitive notion but an imperfect ſight, whereby we make a ſhift to ſupply the want of clearer knowledge, to make it compatible with a clearer cer<g ref="char:EOLhyphen"/>tainty of the truth believed, or with more then a moral evidence of Gods Revelation (which is certainly and clearly connected with the truth believed, becauſe it cannot deceive, nor be deceived) is to maintain, that we want, and do not want that clearneſs of knowledge whereof Faith doth ſuppoſe us defective, and ſupplyeth the defect: Theſe Premiſſes being thus proved, there can be no difficulty in diſcovering the fraud and falſ<g ref="char:EOLhyphen"/>hood of D. <hi>Stillingfleets</hi> Principles and Concluſions; and therefore granting his ſixth, laſt, and common Principle, I will proceed to his particular Propoſitions, mention<g ref="char:EOLhyphen"/>ing only ſuch as I do impugn.</p>
+               </div>
+            </div>
+            <div type="refutation_of_propositions">
+               <pb n="8" facs="tcp:35347:6"/>
+               <head>Dr. <hi>Stillingfleets Faith of Proteſtants reduced to Principles,</hi> is Falſe;</head>
+               <head type="sub">The <hi>Roman-Catholick Faith</hi> Reſolved into the Inconſiſtency of its Falſhood with Gods Veracity.</head>
+               <div type="part">
+                  <p>Propoſition IV.</p>
+                  <p>
+                     <hi>Nothing ought to be admitted for Divine Revelation, which overthrows the certainty of thoſe Principles which muſt be antecedently ſuppoſed to all Divine R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>velation, for that were to overthrow the m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ans whereby we are to judge concerning the truth of any Divine Revelation.</hi>
+                  </p>
+                  <p>Propoſition V.</p>
+                  <p>
+                     <hi>There can be no other means imagined whereby we are to judge of the truth of Divine Revelation, but a faculty in us of diſcerning truth and falſhood in matters propoſed to our belief, which if we do not exerciſe in judging the truth of Divine Revelation, we muſt be impoſed upon by every thing which pretends to be ſo.</hi>
+                  </p>
+                  <p>Propoſition VI.</p>
+                  <p>
+                     <hi>The pretence of Infallibility in any perſon or ſociety of men muſt be judged in the ſame way that the truth of Di<g ref="char:EOLhyphen"/>vine Revelation is</hi> &amp;c.</p>
+                  <pb n="9" facs="tcp:35347:6"/>
+                  <p>DR. <hi>Stillingfleets</hi> firſt and ſecond Propoſition may paſs, and his third alſo, if the word <hi>certain</hi> be rightly underſtood; but his Fourth Propoſition, if therein he ſuppoſeth that every one is to be judge concerning the truth of Divine Revelation, is falſe; as alſo the Fifth, wherein he makes our humane Under<g ref="char:EOLhyphen"/>ſtanding a ſufficient faculty, nay, the only means of diſcerning the truth and falſhood in matters propoſed to our belief, and of Divine Revelations. For, the Objects of Divine Revelation are frequently Myſteries ſo ſublime, that they far exceed all humane or natural capacity: how therefore can their truth or falſhood be judged of by natural reaſon, above its own reach? And as for the Divine Revelation it ſelf, all Divines grant its Exiſtence (and by conſequence its truth) cannot be known by natural reaſon, and therefore ſay, that albeit you may prove the Exiſtence of God by na<g ref="char:EOLhyphen"/>tural reaſon, yet you cannot by the ſame faculty prove the Exiſtence of any one of his Revelations, becauſe theſe, taking their denomination from the exerciſe of Gods liberty, are no ſubject for humane demonſtrati<g ref="char:EOLhyphen"/>on, or concluding diſcourſes, unlets you will conſine Gods free choice to one of thoſe many contrary De<g ref="char:EOLhyphen"/>crees he might have fixt upon, <hi>ab aeterno.</hi> But of this Subject more in the Confutation of his ſixth Con<g ref="char:EOLhyphen"/>cluſion.</p>
+                  <p>To make every mans private judgement the touch<g ref="char:EOLhyphen"/>ſtone of what is Divine Revelation, for fear (forſooth) of being impoſed upon by every thing which pretends to be ſo, is to take too much upon our ſelves, and ſa<g ref="char:EOLhyphen"/>vours more of the <hi>private Spirit,</hi> then of that pious affection and profound ſubmiſſion, wherewith St. <hi>Paul</hi> bids us <hi>captivate our underſtandings to the obedience of
+<pb n="10" facs="tcp:35347:7"/>faith.</hi> But ſurely Dr. <hi>Stillingfleet</hi> doth not conſider what ill uſe himſelf makes of his diſcerning faculty, when he judges that the Proteſtant Reformation is Di<g ref="char:EOLhyphen"/>vine Revelation; let him reflect upon the incredibili<g ref="char:EOLhyphen"/>ty of Gods permitting his Church to lurk in deſarts, or to lie in Errours from the Primitive times until <hi>Martin Luther</hi>'s appearance, <hi>Anno</hi> 1517. he will finde there is very little judgement exerciſed in giving that man, or any of his Comrades ſo much credit, as to forſake the ſence of Scripture, which the Church. Then, and for ma<g ref="char:EOLhyphen"/>ny preceding Ages held, for new fancies and inventi<g ref="char:EOLhyphen"/>ons of <hi>Luther, Zuinglius, Calvin,</hi> and other debaucht Prieſts and Fryars, without any other warrant for ſo great an undertaking but their own word, impudently pretending that they were ſent and inſpired by God to plant a Doctrine ſuitable enough to the lewdneſs of their own lives, and confeſſedly<note n="*" place="bottom">Luther <hi>tom.</hi> 5. <hi>Witenb. in Galat. c.</hi> 1. <hi>fol.</hi> 290. &amp; in <hi>Coll q. Menſal. fol.</hi> 273. <hi>&amp; tom.</hi> 7. <hi>Witenb. An.</hi> 1558. <hi>in lic. de miſſa privata, fol.</hi> 443.228. ſaith, Doſt thou O ſole man take upon thee ſo great matters? What if thou being but one, offendert? If God permit ſo many, and all to erre, why may he not permit thee to erre? Hitherto ap<g ref="char:EOLhyphen"/>pertain thoſe Arguments, the Church, the Church, the Fathers, the Fathers, the Councils, the Cuſtomes, the multitudes and greatneſs of wiſe men, whom do not thoſe clouds and doubts, yea, theſe ſeas of examples overwhelm?</note> contrary to the ſence and practice of the greateſt Doctors and Saints of Gods Church. A man that can beleeve this, may be credulous enough to think he can perſwade the world to look upon all Miracles as miſtakes and upon the Saints that wrought them as fools and phanaticks. But if Dr. <hi>Stillingfleet</hi> will ſecure him elf and all Pro<g ref="char:EOLhyphen"/>teſtants from impoſtures, let him enquire into the mo<g ref="char:EOLhyphen"/>tives
+<pb n="11" facs="tcp:35347:7"/>and Miracles which induce us to beleeve that the Roman-Catholick Church is infallibly aſſiſted by God in delivering and interpreting his Word, and Reve<g ref="char:EOLhyphen"/>lations.</p>
+                  <p>He will not then preſume to make every mans pri<g ref="char:EOLhyphen"/>vate Judgement (according to his 5. and 6. Propoſi<g ref="char:EOLhyphen"/>tion) the only ballance of ſo weighty an affair, nei<g ref="char:EOLhyphen"/>ther will he prefer his own particular opinion before the publick Teſtimony and conſtant Tradition of Chri<g ref="char:EOLhyphen"/>ſtendom for many Ages, eſpecially if he will examine whether Gods Veracity, Goodneſs and Providence be conſiſtent with permitting fraud or falſhood in that Doctrine which a Church (in all appearance) mira<g ref="char:EOLhyphen"/>culous, and ſupernaturally qualified, propoſeth as di<g ref="char:EOLhyphen"/>vine: Whether the Miracles of the Roman-Catholick Church be true or falſe, we diſpute not at preſent, but only averr, that ſeeing ſo many<note n="*" place="bottom">See S. <hi>Aug. de Civit. Dei lib.</hi> 22. <hi>c.</hi> 8. where amongſt other Mi<g ref="char:EOLhyphen"/>racles he telleth, how that in the preſence of him and others, a devout woman called <hi>Palladia,</hi> was ſuddenly cured by praying to St. <hi>Stephen,</hi> and at his Monument his words are, <hi>Ad ſanctum Martyem crare periexerat, quae mox ut cancellos attigit, ſana ſur<g ref="char:EOLhyphen"/>rexit.</hi> S. <hi>Malachias</hi> Miracles you may ſee in his life written by S. <hi>Bernard,</hi> who ſays, in what kinde of old Miracles did not <hi>Ma<g ref="char:EOLhyphen"/>lachias</hi> excel? he wanted not Prophecy, not Revelation, not the gift of healing; and to conclude, not raiſing of the dead; and re<g ref="char:EOLhyphen"/>lates them particularly, as alſo how himſelf aſſiſting at <hi>Mala<g ref="char:EOLhyphen"/>chias</hi> his death, got his bleſſing; and after he expired, took his hand, and laying it on the withered and uſeleſs hand of a boy then pre<g ref="char:EOLhyphen"/>ſent, he was reſtored to perfect health; becauſe in the dead Saint ſaith S. <hi>Bernard,</hi> lived the grace of curing diſeaſes. All theſe and other more ancient and modern Miracles (as thoſe of S. <hi>Bernard</hi> himſelf) are by the Century Writers, <hi>Oſtander,</hi> and moſt Prote<g ref="char:EOLhyphen"/>ſtant Authors, ſaid to be cheats, deluſions, or inchantments, See <hi>Oſtander</hi> for one, in <hi>Epit. cent.</hi> 12. <hi>pag.</hi> 310. <hi>Partim permiſſione Dei praeſtigiis Satanicis effecta exiſtimo;</hi> not, ſaith he, that I think S. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> was a Magician, but it is likely Satan wrought ſuch Mira<g ref="char:EOLhyphen"/>cles to confirm Idolatry, and the worſhip of Saints, <hi>&amp;c.</hi> See S. <hi>Xamir</hi> his Miracles wrought to convert the <hi>Indians</hi> and <hi>Japoni<g ref="char:EOLhyphen"/>ans</hi> to Popery, himſelf being a Jeſuite.</note> wiſe and wary men
+<pb n="12" facs="tcp:35347:8"/>in every Age for at leaſt a 1000. years, and after a ſe<g ref="char:EOLhyphen"/>vere Scrutiny and ſerious ſtudy, have judged our moſt authentick Miracles true, if all theſe men ſhould be miſtaken, none can be condemned for following their judgement; And all prudent and learned men muſt confeſſe it is a myſtery not intelligible, how the infi<g ref="char:EOLhyphen"/>nite Veracity of God can be infinitely averſe from fraud and falſhood, if he permits both the one and the other to be countenanc't and promoted by apparent Miracles, ſo plauſibly fathered upon the Divine Omnipotency, that ſuch as pretend them to be counterfeit, cannot diſ<g ref="char:EOLhyphen"/>cover the fraud nor diſprove the fact; nor finde out any natural cauſe to work ſuch prodigious effects; and therefore are forc't (im<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ting the obſtinate Jews) to attribute them to the power of <hi>Beelzebub,</hi> or to the craft of thoſe very Monks which (they would have the world beleeve, were mad-men; and yet now make them ſo witty, as to contrive the cheat ſo cunningly, and to counterfeit ſupernatural Miracles ſo naturally, that our Proteſtant Adverſaries have been hitherto as unſucceſsful in diſcovering any fallacy in them (I mean ſtill thoſe which moved the Popes to canonize Saints) as the firſt Reformers <hi>Luther</hi> and <hi>Calvin</hi> were unfortunate in being convicted of Folly and Forgery in imitating them, when the one attempted to caſt out the devil in <hi>Germany,</hi> and the other to revive the dead in <hi>Geneva.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="13" facs="tcp:35347:8"/>
+                  <p>Propoſition XIV.</p>
+                  <p>
+                     <hi>To ſuppoſe the Books ſo written to be imperfect, <hi>i. e.</hi> that any things neceſſary to be believed or practiſed are not con<g ref="char:EOLhyphen"/>tained in them, is either to charge the firſt Author of them with fraud, and not delivering his whole minde; or the Writers with inſincerity in not ſetting down, and the whole Chriſtian Church of the firſt ages with folly in believing the fulneſs and perfection of the Scriptures, in order to ſal<g ref="char:EOLhyphen"/>vation.</hi>
+                  </p>
+                  <p>Propoſition XV.</p>
+                  <p>
+                     <hi>Theſe Writings being owned as containing in them the whole Will of God, ſo plainly revealed, that no ſober En<g ref="char:EOLhyphen"/>quirer can miſs of what is neceſſary for ſalvation, there can be no neceſſity ſuppoſed of any infallible Society of men ei<g ref="char:EOLhyphen"/>ther to atteſt or explain theſe Writings,</hi> &amp;c.</p>
+                  <p>Propoſition XVI.</p>
+                  <p>
+                     <hi>There can be no more intolerable uſurpation upon the faith of Chriſtians, then for any perſon or Society of men to pre<g ref="char:EOLhyphen"/>tend to an aſſiſtance as infallible in what they propoſe as was in Chriſt or his Apoſtles, without giving any equal de<g ref="char:EOLhyphen"/>gree of evidence that they are ſo aſſiſted, as Chriſt and his Apoſtles did,</hi> viz. <hi>by Miracles as great, publick and con<g ref="char:EOLhyphen"/>vincing as theirs were, by which, I mean, ſuch as are wrought by theſe very perſons who challenge this Infallibility, and with a deſign for the conviction of thoſe who do not be<g ref="char:EOLhyphen"/>leeve it.</hi>
+                  </p>
+                  <p>The 7.8.9.10.11.12. and 13. Propoſitions, and but ſo many Prefaces to induce us to beleeve the 14. which ſays, that if all things neceſſary to be believed or pra<g ref="char:EOLhyphen"/>ctiſed, are not contained in the Holy Scriptures of the
+<pb n="14" facs="tcp:35347:9"/>New and Old Teſtament, it followeth that God was fraudulent in not delivering his whole minde, or that the Writers were inſincere in not ſetting it down, and the whole Chriſtian Church of the firſt ages, fools, for believing the fulneſs and perfection of the Scriptures, in order to Salvation. Theſe conſequences ſuppoſe (but 'tis not proved) that God promiſed or decreed to deliver his whole minde ſo plainly in the Scriptures concerning all things neceſſary for Salvation, that e<g ref="char:EOLhyphen"/>very one may eaſily underſtand his meaning, and that the Primitive Church believed ſo: But this agreeth not with the Records of Antiquity, nor with the words of S. <hi>Peter,</hi> 2 <hi>Pet.</hi> 3.16. ſaying, that in S. <hi>Pauls</hi> Epiſtles there were ſome things hard to be underſtood, and eaſily wrefted by men to their damnation: And is further de<g ref="char:EOLhyphen"/>monſtrated to be falſe, by the continual conteſtations of Proteſtants againſt the Roman-Catholick ſence of Scripture about Image-worſhip (whether it be prohi<g ref="char:EOLhyphen"/>bited in the Second Commandement) and many other Controverſies, as the Real Preſence, <hi>&amp;c.</hi> For if Scri<g ref="char:EOLhyphen"/>pture (or Gods meaning therein) were as plain as is pretended in the 15. Propoſition, conſciencious, ſober and learned men could not differ ſo irreconcileably in the true ſence thereof. Wherefore nothing is more clear to men in Scripture, then that Scripture is not clear, and that God did not intend it for the only Rule of Salvation; and by conſequence, that it is not repug<g ref="char:EOLhyphen"/>nant to the wiſdome and goodneſs of God, not to ſet down all his will in writing in the Law of grace, or not agreeable to the ſame, that God make men inſalli<g ref="char:EOLhyphen"/>ble in writing ſo much of his will as is contained in Scripture (or even all that is neceſſary for Salvation;) though that writing be not clear to every ſincere and
+<pb n="15" facs="tcp:35347:9"/>ſober perſon, 'tis ſufficient it may be explained to eve<g ref="char:EOLhyphen"/>ry man by the Doctors and Paſtors of the Church; ac<g ref="char:EOLhyphen"/>cording to that of <hi>Deut.</hi> 17.8. <hi>Thou ſhalt go to the Prieſts to enquire, and they ſhall ſhew thee. Deut.</hi> 33.10. <hi>They ſhall teach thy Law. Neh.</hi> 8.8. <hi>They cauſed the people to un<g ref="char:EOLhyphen"/>derſtand the Law.</hi> And <hi>Mat.</hi> 23.2. <hi>They ſat in Moſes chair, all things therefore,</hi> &amp;c. which laſt Text doth not agree with the Propoſition, ſaying, that for ſome ages before Chriſt there was no body infallible among the Jews, to atteſt or explain to them the Writings of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> or the Prophets. As for the Teſtimonies of the New Teſtament, ſee <hi>Mat.</hi> 7.24. and 13.19. and 24.14.16. and 28.19. and <hi>Mark</hi> 16.15. and <hi>Matth.</hi> 18.17. &amp;c.</p>
+                  <p>But Dr. <hi>Stillingfleet</hi> will demonſtrate by his 16. Pro<g ref="char:EOLhyphen"/>poſition, That the Roman-Catholick Church is into<g ref="char:EOLhyphen"/>lerable by its pretending to Gods infallible aſſiſtance in propoſing matters of faith. And why ſo? Becauſe forſooth every Preacher of that Church doth not work as great Miracles as Chriſt and his Apoſtles. Doth e<g ref="char:EOLhyphen"/>very Proteſtant Preacher work ſuch Miracles? Did you Dr. <hi>Stillingfleet?</hi> Did any of your Church, or Reforma<g ref="char:EOLhyphen"/>tion, ever work a Miracle? If not, why do you ex<g ref="char:EOLhyphen"/>pect or exact that any ſhould beleeve your Reforma<g ref="char:EOLhyphen"/>tion, or that your Church is aſſiſted by the holy Ghoſt? If all rational perſons muſt grant, that Miracles are ne<g ref="char:EOLhyphen"/>ceſſary to plant any new Doctrine pretended to be di<g ref="char:EOLhyphen"/>vine, how much more neceſſary muſt they be to re<g ref="char:EOLhyphen"/>verſe the old, and reject Doctrine held for many ages as Divine and confirmed as ſuch by ſo many Prodigies, againſt whoſe ſupernaturality our adverſaries have no other Arguments then their own arbitrary Interpretati<g ref="char:EOLhyphen"/>ons of Scripture, and thoſe things which the Jews ob<g ref="char:EOLhyphen"/>jected
+<pb n="16" facs="tcp:35347:10"/>againſt the Doctrine and Miracles of Chriſt and his Apoſtles? This much we may at leaſt exact and ex<g ref="char:EOLhyphen"/>pect from Dr <hi>Stillingfleet,</hi> that he will either confeſſe the truth of our Doctrine and Miracles, or confute them by ſome better reaſon then by a bare ſuppoſition, that they are againſt Scripture; or by raſhly averring they are but tricks of covetous Monks and crafty<note n="*" place="bottom">Dr <hi>Field</hi> in his Treatiſe of the Church, <hi>lib.</hi> 3. <hi>cap.</hi> 48.</note> Je<g ref="char:EOLhyphen"/>ſuites. Other Proteſtant Writers confeſſe ingeniouſly that our Maſſing Prieſts and Jeſuites have wrought many true Miracles in the <hi>Indies, Japan, Congo,</hi> and <hi>China,</hi> converting thoſe Nations to Popery. And Mr. <hi>Hartwell</hi>
+                     <note n="‖" place="bottom">M. <hi>A<g ref="char:EOLhyphen"/>braham Hartwell</hi> in his Report of the Kingdom of <hi>Congo, edit. An.</hi> 1597. in his Epiſtle to the Reader. <hi>Symon Lythus in Responſ. altera ad alteram.</hi> Gretſeri <hi>Apol. pag.</hi> 331. Daneus <hi>contra</hi> Bellar. <hi>pag.</hi> 781.</note> ſpeaking of the Converſion of the King<g ref="char:EOLhyphen"/>dom of <hi>Congo,</hi> ſaith, <hi>Shall this Action, which tendeth to the Glory of God, be concealed, and not committed to memory, becauſe it was performed by Popiſh Prieſts, and Popiſh means? God forbid.</hi>
+                  </p>
+                  <p>If Dr. <hi>Stillingfleet</hi> thinks that his Church, or the Re<g ref="char:EOLhyphen"/>formation by not pretending to Miracles, or Infallibi<g ref="char:EOLhyphen"/>lity in propoſing matters of Faith, be a more certain and ſafe Guide to Salvation, then the Roman-Catho<g ref="char:EOLhyphen"/>lick Church, that with undeniable moral evidence pretends to both, few conſidering and conſciencious perſons will be of his opinion; it being a clear prin<g ref="char:EOLhyphen"/>ciple in Moral Theology, That in matters of Eternity we are bound to chooſe the ſureſt way; and no pru<g ref="char:EOLhyphen"/>dent man will deny, but that it is a ſurer way to Hea<g ref="char:EOLhyphen"/>ven, to be directed by a Guide that pretends to be cer<g ref="char:EOLhyphen"/>tain of that way, and produceth moral evidence for
+<pb n="17" facs="tcp:35347:10"/>that certainty, then to follow a guide that plainly con<g ref="char:EOLhyphen"/>feſſeth his own uncertainty of the way, and hath no<g ref="char:EOLhyphen"/>thing to ſay againſt the moral evidence and aſſurance of the other, but railing Raillery, or turning to <hi>Ridi<g ref="char:EOLhyphen"/>cule</hi> ſuch forged and incredible Miracles as we our ſelves diſcover, and puniſh.</p>
+                  <p>To conclude, it is not neceſſary that every particular Doctor or Preacher of the Faith, ſhew or work a Mi<g ref="char:EOLhyphen"/>racle, 'tis ſufficient that any one of that Faith do it, or did it, to prove the Faith and Infallibility of the Roman Church: If this be credibly reported to the diſſenters, they are bound to beleeve it and become Roman Catholicks. <hi>Herod</hi> never did ſee any of Chriſt or the Apoſtles Miracles, at leaſt many of the Jews did not, and yet they who heard them credibly report<g ref="char:EOLhyphen"/>ed, were obliged under pain of damnation to beleeve the Chriſtian doctrine, becauſe they were credibly in<g ref="char:EOLhyphen"/>formed that it was confirmed by Miracles; So that it is a raſh miſtake to maintain, that no Proteſtant is bound to ſubmit to the Authority and Doctrine of the Ro<g ref="char:EOLhyphen"/>man-Catholick Church, unleſs he be convinct firſt by ſeeing a Miracle; Such things as are own'd to be Mi<g ref="char:EOLhyphen"/>racles by our Church, are ſo well examined, and ſo authentickly proved, that any one may prudently be<g ref="char:EOLhyphen"/>leeve them; for though perhaps none now living did ſee them, yet many credible perſons that lived when they were wrought, did ſee them, and we may rely up<g ref="char:EOLhyphen"/>on their ſight and ſearch with as much Reaſon and more Religion, then upon our own, according to Chriſts ſaying to S. <hi>Thomas, Bleſſed are they who have not ſeen, and yet believed.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="18" facs="tcp:35347:11"/>
+                  <p>Propoſition XVII.</p>
+                  <p>
+                     <hi>Nothing is more abſurd then to pretend the neceſſity of ſuch an infallible Commiſſion and aſſiſtance to aſſure us of the truth of theſe Writings, and to interpret them, and at the ſame time to prove that Commiſſion from thoſe Writings from which we are told nothing can be certainly deduced, ſuch an aſſiſtance not being ſuppoſed; or to pretend that In<g ref="char:EOLhyphen"/>fallibility in a body of men, is not as liable to doubts and diſputes as in thoſe Books from whence only they derive their Infallibility.</hi>
+                  </p>
+                  <p>The 17. Propoſition is a groſs or wilful miſtake of the Roman-Catholick Doctrine; We do not ground the Infallibility of the Church upon the words of Scripture which aſſert it, but upon an impoſſibility or incredi<g ref="char:EOLhyphen"/>bility, that God would permit ſuch a Church as the Roman-Catholick, qualified with ſo many ſeeming ſu<g ref="char:EOLhyphen"/>pernatural ſignes of his favour and ſeals of his Divine Commiſſion, as our Miracles, Sanctity. Converſion of Nations to Chriſtianity, <hi>&amp;c.</hi> upon an Impoſſibility: I ſay, that God would permit a Church ſo apparently qualified with ſupernatural Marks of Divine<note n="*" place="bottom">See Father <hi>Thomas Bartons Treatiſe of Religion and Government, edit.</hi> 1670. where he cleareth this point, as alſo the obſcurity of Chriſtian faith.</note> Autho<g ref="char:EOLhyphen"/>rity, to leade men into any errour, when it pretends to propoſe and declare Gods Revelation; This we ſay is not compatible with Gods Veracity, or with his in<g ref="char:EOLhyphen"/>finite ſincerity or inclination to truth, and averſneſſe from falſhood, whether in fundamental, or not funda<g ref="char:EOLhyphen"/>mental points of faith. For, even amongſt men he that is very ſincere, or much inclined to truth, and averſe
+<pb n="19" facs="tcp:35347:11"/>from falſhood, will not permit any one (if he can help it) to abuſe his name or authority by counterfeiting his Commiſſions or Seals, much leſs can it be imagined by any ſober perſon that God who is ſincerity and truth it ſelf, would permit (he being omnipotent) the Roman-Catholick Church to abuſe his ſacred Name and aſſume his authority by counterfeit Seals, or falſe Miracles, and thereby to ſeduce the world for ſo ma<g ref="char:EOLhyphen"/>ny ages as that Church hath been prudently taken to be the ſole true Church of God. So that you muſt grant 1. The Roman-Catholick Miracles (approved of in the Bulls of Canonization of Saints) to be true, and by conſequence it ſelf to be infallibly aſſiſted by God, independently of, and antecedently to any words of Scripture; and if the Miracles be true, there can be no diſpute of the Truth of its Doctrine, or of the au<g ref="char:EOLhyphen"/>thentickneſſe of its Commiſſion. 2. You muſt grant, that if its Miracles were falſe, there could be no proof or faith of Gods Veracity, this being inconſiſtent with the permiſſion of a cheat ſo apparently ſupernatural. We reſolve therefore Chriſtian and Catholick Faith into this Aſſertion or Aſſent and Aſſurance; <hi>Gods Ve<g ref="char:EOLhyphen"/>racity being Infinite, I do moſt firmly and undoubtedly be<g ref="char:EOLhyphen"/>leeve, that God will never permit any falſhood to be pro<g ref="char:EOLhyphen"/>poſed as his Word or Revelation, with ſuch appearance of Miracles, and ſuch ſigns of his approbation, as the Roman-Catholick Church propoſeth its Doctrine and Infallibility: And therefore whatſoever the ſame Church doth propoſe as Gods Word or Revelation, I do moſt firmly and undoubt<g ref="char:EOLhyphen"/>edly beleeve as the real Word and Revelation of God.</hi> To this univerſal Aſſent or Aſſertion are reduced all the particular Aſſents or Articles of Catholick Faith, with<g ref="char:EOLhyphen"/>out any kinde of that circle which Schoolmen ſo much
+<pb n="20" facs="tcp:35347:12"/>dread in the reſolution of faith: Neither is there any circle in proving the evident credibility of the Roman-Catholick Church by its Miracles, and the truth of its Miracles by the approbation of the ſame Church. 1. Be<g ref="char:EOLhyphen"/>cauſe we prove the Credibility of the Church by the ſole moral appearance that our Miracles are Divine, before they are believed to be Divine by ſuperna<g ref="char:EOLhyphen"/>tural faith. 2. Becauſe both the truth of our Mira<g ref="char:EOLhyphen"/>cles, and the Infallibility of our Church are proved by the Infiniteneſſe of Gods Veracity, which is not con<g ref="char:EOLhyphen"/>ſiſtent with a permiſſion of our Miracles being falſe, or of our Church being fallible, as hath been hitherto declared.</p>
+                  <p>As to the Second part of the 17. Propoſition, it's manifeſt to common ſenſe, that doubts and diſputes are with more eaſe and clearneſs reſolved by an infallible body of men, then by an obſcure (though infallible) Writing: Men may hear, and anſwer difficulties and doubts, a Book (even the Bible) cannot, becauſe we prove it is obſcure (even after all conferences of texts, and Examinations of the able Scripturiſts) by reaſon of the differences in opinion concerning the true ſence thereof.</p>
+                  <p>The 18. Propoſition is grounded upon the falſhood of the 17. and therefore needeth no other confutati<g ref="char:EOLhyphen"/>on; but as to what it ſays, God had promi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed to par<g ref="char:EOLhyphen"/>ticular men who endeavour to underſtand Scripture, that either they ſhall not err, or if they ſhall, they ſhall not be damn'd for it, is but a fancy of Dr. <hi>Stillingfleet,</hi> without any proof or colour of truth, and contrary to Chriſts commands of hearing and obeying the Church.</p>
+                  <p>The 19. Propoſition contains only a falſe ſuppoſition confuted in the 17. and an inclination in D. <hi>Stillingfleet</hi>
+                     <pb n="21" facs="tcp:35347:12"/>to the private ſpirit, againſt the publick Teſtimony of the Church.</p>
+               </div>
+               <div type="part">
+                  <p>Propoſition XX.</p>
+                  <p>
+                     <hi>No mans faith can therefore be infallible, meerly becauſe the Proponent is ſaid to be infallible, becauſe the nature of Aſſent doth not depend upon the objective infallibility of any thing without us, but is agreeable to the evidence we have of it in our mindes; for Aſſent is not built on the nature of things, but their evidence to us.</hi>
+                  </p>
+                  <p>The 20. Propoſition wants explanation: There are two ſorts of Aſſent, one is grounded upon clear evi<g ref="char:EOLhyphen"/>dence of the truth aſſented unto, and is an intellectual ſight thereof, the other is grounded upon authority, that is, upon the Author or Speakers Veracity or Incli<g ref="char:EOLhyphen"/>nation to truth: The firſt kinde of aſſent is agreeable, and bears proportion with the evidence we have of it in our mindes, and is infallible if the evidence be clear, as it is in ſome undeniable principles, and in their im<g ref="char:EOLhyphen"/>mediate Concluſions: But the aſſent built upon autho<g ref="char:EOLhyphen"/>rity (which is <hi>Faith</hi>) dependeth in its Infallibility upon the infallibility of the Infallible Authour or Proponent apprehended to be ſo by us and this inde<g ref="char:EOLhyphen"/>pendently of any Evidence we have of the truth or na<g ref="char:EOLhyphen"/>ture of things without us; and therefore this 20. Pro<g ref="char:EOLhyphen"/>poſition is abſolutely falſe.</p>
+               </div>
+               <div type="part">
+                  <p>Propoſition XXI.</p>
+                  <p>
+                     <hi>It is therefore neceſſary in order to an Infallible Aſsent, that every particular perſon be infallibly aſſiſted in judging of the matter propoſed to him to be believed, ſo that the ground on which a neceſſity of ſome external infallible Pro<g ref="char:EOLhyphen"/>ponent
+<pb n="22" facs="tcp:35347:13"/>is aſſerted must rather make every particular Perſon infallible, if no divine faith can be without an infallible Aſſent, and ſo renders any other infallible uſeleſs.</hi>
+                  </p>
+                  <p>The 21. Propoſition is alſo falſe, it being only a con<g ref="char:EOLhyphen"/>ſequence from the former. A fallible perſon may give an infallible aſſent in matters of faith, becauſe the truth and aſſurance of ſuch an Aſſent is not to be meaſured by any inward evidence the Aſſenter hath of the matter of Myſtery believed; but (ſuppoſing the outward ap<g ref="char:EOLhyphen"/>pearance of the ſupernatural ſignes of the Church) by the grace that God gives to aſſure us, that himſelf is the Authour of the Doctrine ſo propoſed: And though the appearance of the ſignes of the Church exceeds not a moral certainty of God being the Authour of the Churches Doctrine, yet our aſſurance of that ſame truth is more then moral, becauſe we build not the aſſurance and certainty of our Catholick faith, or of the Infalli<g ref="char:EOLhyphen"/>bility of the Church, upon thoſe motives of eredibility, and the outward appearance of their connexion with the Truth, but upon Gods Veracity, Goodneſs, and his averſneſs from any falſhood; which is ſo great, that we do as firmly beleeve he will no more permit a Church ſo likely to be his, as the Roman-Catholick Church is, to erre, and leade us into any falſhood, then he would own himſelf Authour or Countenancer of that falſhood and fraud.</p>
+               </div>
+               <div type="part">
+                  <p>Propoſition XXII.</p>
+                  <p>
+                     <hi>If no particular perſon be infallible in the aſſent he gives to matters propoſed by others to him, then no man can be infallibly ſure that the Church is infallible, and ſo the Churches Infallibility can ſignifie nothing to our infallible aſſurance, without an equal Infallibility in our ſelves in the belief of it.</hi>
+                  </p>
+                  <pb n="23" facs="tcp:35347:13"/>
+                  <p>The 22. Propoſition ſignifies nothing, if you will reflect upon what hath been now ſaid; every faithful is infallible inaſmuch as he agreeth with the Doctrine of the Church, and the Churches Infallibility is one point of that Doctrine.</p>
+                  <p>The 23. Propoſition is compoſed of abſurd ſequels from the former.</p>
+                  <p>The 24. 25. and 26. Propoſitions have not any thing worth our taking notice of.</p>
+               </div>
+               <div type="part">
+                  <p>Propoſition XXVII.</p>
+                  <p>
+                     <hi>The nature of certainty doth receive ſeveral names, ei<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> according to the nature of the proof, or the degrees of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Thus</hi> moral certainty <hi>may be ſo called either</hi> &amp;c.</p>
+                  <p>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the 27. Propoſition the Authour declares, that <gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ſtianity is morally certain, that is, it implys a firm Aſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent upon the higheſt evidence that moral things can receive: This ſeems to involve a contradiction; How can our Aſſent be ſufficiently firm for Faith, and ex<g ref="char:EOLhyphen"/>clude all doubts and fears of Falſhood (as Chriſtian Faith muſt) if its certainty be only moral, though in the higheſt degree of moral certainty? For, the higheſt degree of moral certainty doth not include an abſolute impoſſibility of the contrary; So that Dr. <hi>Stillingfleet</hi> muſt confeſſe 'tis poſſible his Faith may be falſe, and the Scriptures a Fable, though he be morally certain in the higheſt degree it is not ſo.</p>
+                  <p>Hence followeth againſt the 28. <hi>Propoſition,</hi> that a Chriſtian having no more then moral certainty in the Higheſt degree that the Scriptures are the Word of God, his Faith cannot be reſolved into the Veracity of God, as the ground of his believing; becauſe the
+<pb n="24" facs="tcp:35347:14"/>Veracity of God excludes all Fallacy and poſſibility of Falſhood, and includes not only the higheſt degree of moral, but of Metaphyſical certainty, and by con<g ref="char:EOLhyphen"/>ſequence every aſſent of Faith grounded thereup<g ref="char:EOLhyphen"/>on, and reduced thereunto, muſt be of the ſame na<g ref="char:EOLhyphen"/>ture.</p>
+                  <p>The 29. Propoſition confines Gods Revelations to Scripture only without proof or pretext for ſo bold an aſſertion, as we have manifeſted in confuting the 14. <hi>Propoſition.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>Propoſition XXX.</p>
+                  <p>
+                     <hi>There can be no better way to prevent mens miſtakes in the ſence of Scripture (which men being fallible are ſubject to) then the conſidering the conſequence of miſtaking in a mat<g ref="char:EOLhyphen"/>ter wherein their ſalvation is concerned; and there can be no ſufficient reaſon given why that may not ſerve in matter of faith which God himſelf hath made uſe of, as the means to keep men from ſin in their lives, unleſs any imagin, that Errors in opinion are more dangerous to mens ſouls then a vicious life is and therefore that God is bound to take more care to prevent the one then the other.</hi>
+                  </p>
+                  <p>This 30. and laſt Propoſition doth not agree with the 15. and 18. For in the 15. the Author maintains, that no ſober Enquirer into the Scriptures, can miſs of what is neceſſary for ſalvation, and from thence con<g ref="char:EOLhyphen"/>cludes there can be no neceſſity ſuppoſed of any infal<g ref="char:EOLhyphen"/>lible Society of men (or of the Church of <hi>England</hi>) to atteſt or explain Scripture; To what purpoſe then are Biſhops, Deans Chapters and Paſtors, or at leaſt their Revenues and Tythes? May not this bring Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet,</hi> under the ſuſpicion and cenſure of being rather a
+<pb n="25" facs="tcp:35347:14"/>Prevaricator then Aſſertor of the Church of <hi>England,</hi> and an Impugner of the Eccleſiaſtical Hierarchy? His 18. Propoſition alſo deſtroys this 30. as you may ſee by comparing both: in the 18. he ſays. God hath pro<g ref="char:EOLhyphen"/>miſed to them who uſe their beſt endeavours or means to underſtand the Scriptures, that either they ſhall not erre, or they ſhall not be damn'd for it. From whence it follows.</p>
+                  <p n="1">1. That Scripture is obſcure even in matters neceſ<g ref="char:EOLhyphen"/>ſary for ſalvation, contrary to the 15. Propoſition.</p>
+                  <p n="2">2. That they need not fear being damn'd, and there<g ref="char:EOLhyphen"/>fore need not be concerned for erring, which is con<g ref="char:EOLhyphen"/>trary to this 30. Propoſition, and indeed to all Chri<g ref="char:EOLhyphen"/>ſtianity, whereof St. <hi>Paul</hi> ſays, it is one of the firſt prin<g ref="char:EOLhyphen"/>ciples, that <hi>without faith it is impoſſible to pleaſe God,</hi> and that Faith is the ſubſtance and foundation of Re<g ref="char:EOLhyphen"/>ligion, and hopes of ſalvation: In this ſenſe it's cer<g ref="char:EOLhyphen"/>tain, that errours in opinion are for more dangerous then a vicious life is, both becauſe here ie is the worſt of vices, and becauſe it is more difficult to recover true Faith once loſt, then to repent of any other ſins. You have ſeen D. <hi>Stillingfleets</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rinc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ples cleared and confu<g ref="char:EOLhyphen"/>ted; Now you ſhall ſee them retorted againſt himſelf in his own Concluſions.</p>
+               </div>
+            </div>
+            <div type="refutation_of_conclusions">
+               <div type="part">
+                  <p>Concluſion I.</p>
+                  <p>
+                     <hi>There is no neceſſity at all or uſe of an infallible ſociety of men to aſſure men of the truth of thoſe things which they may be certain of without it, and cannot have any greater aſſurance ſuppoſing ſuch Infallibility to be in them.</hi>
+                  </p>
+                  <pb n="26" facs="tcp:35347:15"/>
+                  <p>Concluſion II.</p>
+                  <p>
+                     <hi>The Infallibility of that ſociety of men who call themſelves the Catholick Church, muſt be examined by the ſame facul<g ref="char:EOLhyphen"/>ties an man, the ſame Rules of tryal, the ſame motives by which the Infallibility of any Divine Revelation is.</hi>
+                  </p>
+                  <p>Concluſion III.</p>
+                  <p>
+                     <hi>The leſſe convincing the Miracles the more doubtful the Marks, the more obſcure the ſence of either what is cal<g ref="char:EOLhyphen"/>led the Catholick Church or declared by it, the leſſe reaſon hath any Chriſtian to beleeve upon the account of any who call themſelves by the name of the Catholick Church.</hi>
+                  </p>
+                  <p>Concluſion IV.</p>
+                  <p>
+                     <hi>The more abſurd any Opinions are, and repugnant to the firſt Principles of ſence and reaſon, which any Church ob<g ref="char:EOLhyphen"/>trudes upon the faith of men, the greater reaſon men ſtill have to reject the pretence of Infallibility in that Church as a grand Impoſture.</hi>
+                  </p>
+                  <p>Concluſion V.</p>
+                  <p>
+                     <hi>To diſown what is ſo taught by ſuch a Church, is not to queſtion the Veracity of God, but ſo firmly to adhere to it, as to what he hath revealed in Scriptures, that men dare not out of love to their ſouls reject what is ſo taught.</hi>
+                  </p>
+                  <p>THe Firſt Concluſion hath been retorted in the 30. Propoſition againſt the Church of <hi>England</hi> (which Dr. <hi>Stillingfleet</hi> undertakes to maintain) becauſe if an
+<pb n="27" facs="tcp:35347:15"/>infallible Church be ſuperfluous, much more ſuperflu<g ref="char:EOLhyphen"/>ous muſt the Church of <hi>England</hi> be, that is confeſſedly fallible. Nay it muſt be dangerous, becauſe by the Laws of the Land which confirm it, and by the Benefices and Revenues that enrich it, men may be induced to follow falſe doctrine, whereunto (as a fallible Church) it may leade them.</p>
+                  <p>The 2. Concluſion deprives the Church and State of <hi>England</hi> of all hopes of peace and quiet; becauſe if a Church pretending (with good grounds) to Infallibi<g ref="char:EOLhyphen"/>lity, muſt be judged and cenſured by every private mans <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and diſcretion, much more a Church that ac<g ref="char:EOLhyphen"/>knowledgeth to be fallible, and yet both reaſon and experience demonſtrate, that no Church or Common<g ref="char:EOLhyphen"/>wealth can be peaceable, wherein every private perſon is permitted to be a Judge of its Laws, or of its Religion.</p>
+                  <p>The 3. Concluſion abſolutely deſtroys the Church of <hi>England</hi> becauſe it doth not as much as pretend to Mi<g ref="char:EOLhyphen"/>racles, nor ſupernatural viſible marks, nor to the name of the Catholick Church; and by D. <hi>Stillingfleets</hi> conſe<g ref="char:EOLhyphen"/>quence no Chriſtian ought to believe upon the account of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Church.</p>
+                  <p>The 4. Con<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſion is alſo deſtructive to the Church of <hi>England</hi> becauſe nothing is more repugnant to the firſt principles of ſence and reaſon, then that a Church confeſſedly fallible ſhould pretend to direct men to the in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>allible certainty of Chriſtian Faith; and that men <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be compelled by Laws and penalties to hazard their ſalvation by following a guide that owns not to be fully aſſured whether his own Doctrine be the right way to Heaven.</p>
+                  <p>The 5. Concluſion makes it lawful for every man to reject the authority of the Church of <hi>England,</hi> and to
+<pb n="28" facs="tcp:35347:16"/>make himſelf ſole Judge of the Scriptures, and all this out of love to his ſoul, and out of reverence to Gods Veracity, which is (in equivalent terms) to make Dr. <hi>Stilling fleets</hi> Religion inſeparable from Hereſie and Rebellion, and inconſiſtent with the ſafety of any State or Soveraign.</p>
+               </div>
+               <div type="part">
+                  <p>Concluſion VI.</p>
+                  <p>
+                     <hi>Though nothing were to be delivered as the Will of God, but what is by the Catholick Church declared to be ſo, yet this doth not at all concern the Church of Rome, which neither is the Catholick Church, nor any ſound part or member thereof. From all which it follows, that it can be nothing but wilful Ignorance, weakneſs of judgment, ſtrength of prejudice, or ſome ſinful paſſion, which makes any one forſake the Com<g ref="char:EOLhyphen"/>munion of the Church of England, to embrace that of the Church of Rome.</hi>
+                  </p>
+                  <p>This 6. Concluſion I ſhall endeavour to confute by proving that the Roman-Catholick Church alone, is the whole Catholick Church: In order whereunto I will ſet down theſe few <hi>Propoſitions.</hi>
+                  </p>
+                  <p n="1">1. That there is. and always hath been, upon earth, a viſible Catholick Church, otherwiſe Chriſt would not have commanded us to repair to it in our differen<g ref="char:EOLhyphen"/>ces, nor the Apoſtles have made it an Article of our Creed.</p>
+                  <p n="2">2. The Catholick Church muſt have ſome viſible and ſupernatural ſignes (far exceeding all others in the ap<g ref="char:EOLhyphen"/>pearance of being ſuch) whereby it may be diſcerned from all <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>agan and Heretical Congregations pretending to be a part, or the whole Catholick Church. If this be not granted, no man is obliged to be of any Church,
+<pb n="29" facs="tcp:35347:16"/>nay rather all men are obliged to be of no Church, be<g ref="char:EOLhyphen"/>cauſe not having any ſignes to prefer one Church be<g ref="char:EOLhyphen"/>fore the other, none could know which is the true one, and therefore it's a hundred to one, at leaſt, they would fall into ſome Heretical Congregation, there being ſo many, and the true Church or Congregation but one.</p>
+                  <p n="3">3. That no ſupernatural ſigns or Miracles can be vi<g ref="char:EOLhyphen"/>ſible and wrought for conrfimation of doctrine in any Congregation but in that one which is the true Church, becauſe the ſignes or Miracles which Chriſt ſaid would follow the Beleevers, <hi>Mark</hi> 16. or the true Church, are of the ſame nature of Chriſts Miracles, and in order to gain credit for the teſtimony it gives of it ſelf and his doctrine: and God being the Author of truth and concord, cannot give ſupernatural ſignes of his truſt or truth to any two or more diſſenting Churches, for if he did, the wiſeſt courſe (as I ſaid) learned and pious men could take, would be, to turn Scepticks, and not believe in God. Hence alſo it followeth</p>
+                  <p n="4">4. That the Catholick Church cannot be compoſed of any two Congregations diſſenting in any one point, which eith<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r holds to be an Article of Faith fundamen<g ref="char:EOLhyphen"/>tal, or not fundamental: the reaſon is, becauſe if they be of equal authority men ought rather to ſuſpend then ſubmit their judgments to either of thoſe Congregati<g ref="char:EOLhyphen"/>ons: and though both ſhould agree in fundamental Articles, yet becauſe God (being truth it ſelf) is as contrary to ſmall as great un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hs or errors, he can no more permit the Teſtimony of his Church and his Mira<g ref="char:EOLhyphen"/>cles, to confirm a little then a great untruth, and ſo it muſt be infallible as well in not fundamentals, as in fundamentals.</p>
+                  <p n="5">5. Gods being of infinite Veracity (as hath been
+<pb n="30" facs="tcp:35347:17"/>proved in my confutation of Dr. <hi>Stillingfleets</hi> 6, 16, 17. Propoſitions) cannot permit any falſe Church to have or ſhew ſo credible an appearance of true Miracles, as hath been alwaies and now is pretended to be in the Roman-Catholick Church; They are ſo convincing, that our adverſaries can as little prove the fraud, as de<g ref="char:EOLhyphen"/>ny the fact; They are ſo frequent, that there is ſcarce a Countrey in Chriſtendom, wherein they have not been wrought: They are ſo authentick (I ſpeak only of ſuch as are approved by the Biſhops of <hi>Rome,</hi> in order to the canonization of Saints) that there cannot be a more narrow ſcrutiny into the nature and cure of the diſeaſe, nor into the ſincerity and ſufficiency of the Witneſſes, and the ſeverity of our judgments againſt ſuch as we finde to be cheats and Impoſtors, is notori<g ref="char:EOLhyphen"/>ous; even in <hi>Ireland,</hi> where our Eccleſiaſtical diſcipline is reſtrained by the Laws, we have ventured to ſilence <hi>James Finanghty</hi> (a ſimple ignorant Prieſt) becauſe himſelf and he who cauſed them to be printed, were ſo weak as to fancy they were true Miracles.</p>
+                  <p>I know Dr. <hi>Stillingfleet</hi> may object againſt this Pro<g ref="char:EOLhyphen"/>poſition, the Miracles of Antichriſt, but his Miracles will not be of the ſame nature with the Miracles of Chriſt, and ours; he will not convert Nations to Chri<g ref="char:EOLhyphen"/>ſtianity, by imitating the Apoſtles humility, poverty and chaſtity, as the Apoſtolical men of our Church have done in all former ages, and even in this; Wit<g ref="char:EOLhyphen"/>neſſe both the <hi>Indies, Braſile, Ethiopia, Perſia, Japan,</hi> and <hi>China.</hi> Beſides, though Antichriſt's Miracles could be in appearance as palpable, and as plauſible as ours; yet (beſides the precedency and prediction of ours as true) the particular circumſtances wherewith Scripture hath deſcribed that man of ſin, and the warning it hath
+<pb n="31" facs="tcp:35347:17"/>given us, not to beleeve his Miracles, do ſo diſcredit him and them, that no man who will reflect upon the Scriptures words and recurr to God for help will be de<g ref="char:EOLhyphen"/>ceiv'd by Antichriſt's Impoſtures, and lying Prodigies.</p>
+                  <p>True it is, that according to<note n="*" place="margin">
+                        <hi>See D.</hi> Stil<g ref="char:EOLhyphen"/>ling fleets Anſw. pag. <hi>469.</hi>
+                     </note> D. <hi>Stilling<g ref="char:EOLhyphen"/>fleets</hi> Principles (making every particular perſon Judge of Divine Revelation, and admitting nothing as ſuch that he thinks doth contradict ſenſe in its proper object) Antichriſt's Miracles muſt be judged true Miracles, and by conſe<g ref="char:EOLhyphen"/>quence his Doctrine muſt be embraced as Divine Re<g ref="char:EOLhyphen"/>velation: For upon this account alone doth Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet</hi> deny the Miracle and Myſtery of <hi>Tranſubſtanti<g ref="char:EOLhyphen"/>ation,</hi> notwithſtanding the clearneſs of Scripture for it; being impoſſible to expreſs that Truth, or any other, in more clear terms, then by Chriſts ſaying, <hi>This is my body;</hi> ſo likewiſe it muſt be concluded from Dr. <hi>Stillingfleet,</hi> Principles, that though Chriſt tels you clearly. Anti<g ref="char:EOLhyphen"/>chriſt's Miracles will not be true Miracles, yet if your eyes tels you (that is if you ſee a man lie like dead, and afterwards ſee him ſtand and move by Antichriſt's command) you muſt prefer this evidence of ſence in its proper object, before Chriſts clear words and Reve<g ref="char:EOLhyphen"/>lation: For, the proper object of ſenſe goes no further then to the outward appearance or accidents; it doth not penetrate to the ſubſtance of bread or wine, much leſs to the life or ſoul of a ſeeming dead man; and by conſequence men may be miſtaken in the ſubſtance of both, though they rely upon ſenſes evidence in its pro<g ref="char:EOLhyphen"/>per object, which is only the <hi>ſpecies,</hi> or outward appea<g ref="char:EOLhyphen"/>rances, or (if you will follow the modern opinion) certain impreſſions made upon the Organs of our ſenſes; and this may be performed by Antichriſt, or by any o<g ref="char:EOLhyphen"/>ther
+<pb n="32" facs="tcp:35347:18"/>that the devil hath a kindneſs for, without any concurrence or real exiſtence of the Object you fancy to ſee hear, ſmell, touch, or taſte; and of this we have ſufficient proofs and examples in viſions and apparitions both of good and bad ſpirits, both in ſacred and pro<g ref="char:EOLhyphen"/>phane Hiſtory.</p>
+                  <p>We ought not therefore to attribute ſo much to the evidence of ſenſe in its moſt proper Object (it cannot have evidence in any other) as to wreſt the words of Scripture from their literal and plain ſence, in the My<g ref="char:EOLhyphen"/>ſtery of <hi>Tranſubſtantiation,</hi> ſeeing we muſt confeſs that Antichriſts falſe Miracles will have no other colour of truth but what will be grounded upon the Evidence of ſenſe in its moſt proper Object; and if this Evidence ought not to prevail in favour of Antichriſts Miracles, I ſee no reaſon why it ought to prevail againſt Chriſts words, <hi>This is my body.</hi>
+                  </p>
+                  <p>As for matters of faith that ſuppoſe matters of fact, the certainty of their belief doth not depend ſo much upon the ſences evidence of the fact, as D. <hi>Stillingfleet</hi> imagines, <hi>pag.</hi> 469. For, we do not beleeve that any of the Apoſtles, or others, did ſee Chriſt in the very act or inſtant of his Reſurrection, though they did ſee him a little after, but they did not ſee the Reſurrection it ſelf; and though they had ſeen it, the aſſurance of their faith muſt have been grounded upon divine Revelation, not upon that ſight, So that not only ſucceeding ages, but the Apoſtles themſelves believed Chriſts Reſurre<g ref="char:EOLhyphen"/>ction with Chriſtian faith, not becauſe they did ſee him revived, but becauſe he told them, he was the very ſame Chriſt that had been dead, and this his aſſertion is con<g ref="char:EOLhyphen"/>firmed by the ſame ſignes and teſtimonies whereby the other myſteries of Faith are.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <pb n="33" facs="tcp:35347:18"/>
+               <head>Concluſion.</head>
+               <p>SEeing therefore the whole Catholick Church cannot be compoſed of many or any two diſſenting Con<g ref="char:EOLhyphen"/>gregations in any point of Faith, whether fundamental, or not fundamental, and that the ſame Catholick Church muſt have ſupernatural ſignes and Miracles whereby it may be diſcerned from all Heretical Congregations; and that no other<note n="*" place="margin">
+                     <hi>D.</hi> Do<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ham in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Treatiſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Antichr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l. <hi>1.</hi> c. <hi>7.</hi> p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>111.</hi> ſait<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Neither Turks, n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Jews, no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> any other Church of Chriſtian but only th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pope and Church of Rome do vaunt of Miracles.</note> Chriſtian Congregation, but the Ro<g ref="char:EOLhyphen"/>man-Catholick doth as much as pretend to ſupernatu<g ref="char:EOLhyphen"/>ral ſignes and Miracles, and that this pretence of Mira<g ref="char:EOLhyphen"/>cles in the Roman-Catholick Church is ſo well ground<g ref="char:EOLhyphen"/>ed, that the wiſeſt and warieſt men of the world for many ages (and in this alſo) did take it to be good and ſufficient evidence to build thereupon their hopes of ſalvation, and that ſuch as deny the ſufficiency of this evidence cannot diſpute it otherwiſe then by ſay<g ref="char:EOLhyphen"/>ing (contrary to univerſal Tradition and to the Teſti<g ref="char:EOLhyphen"/>mony of all Hiſtories) that they who believed and wrought our Miracles were cheats or mad-men, and that there can be no greater madneſs then ſo raſh an aſſer<g ref="char:EOLhyphen"/>tion; ſeeing, I ſay, all this hath been made out in my Propoſitions, I hope it may be evidently concluded, that the Roman-Catholick Church, and only the Roman-Catholick Church, is the whole Catholick and true Church of God. From whence muſt follow the quite contrary of D. <hi>Stillingfleets</hi> Principles and Concluſions.</p>
+               <p>This Sir, is my Opinion of a Book ſo much applauded by thoſe that underſtand not its Principles, nor the inconve<g ref="char:EOLhyphen"/>niencies it may draw upon the Religion and Revenues of the Church of <hi>England,</hi> by making that Church as uſe<g ref="char:EOLhyphen"/>leſs for ſaving ſouls, as its Revenues are thought by Stateſmen neceſſary for ſupporting the State: I am,</p>
+               <closer>
+                  <date>
+                     <hi>March</hi> 17. 1671.</date>
+                  <signed>Yours, <hi>J.W.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:35347:19"/>
+            <head>Errata.</head>
+            <p>In the Page on the back-ſide the Title, <hi>line</hi> 3. for <hi>Principles of Chriſtianity,</hi> reade <hi>Principles of Proteſtancy. </hi> page 6. line 14. reade <hi>confirmed,</hi> p. 10.. l. 10. r. <hi>which the Church then, and for.</hi> p. 12. l. 5. r. S. <hi>Xavier.</hi>
+            </p>
+            <pb facs="tcp:35347:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
